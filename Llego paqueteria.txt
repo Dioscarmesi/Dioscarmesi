@@ -1,0 +1,196 @@
+:clapper: Título: "Llegó Paquetería"
+:blue_book: GUION TÉCNICO (Camarógrafo VRChat)
+ESCENA 1 – INT. SALA – DÍA
+Estática desde el sofá
+
+PLANO ABIERTO: Estella está sentada viendo televisión.
+
+EFECTO SONORO: Se escucha el timbre de la puerta (SFX: Ding Dong).
+
+CAMBIO DE PLANO: Travelling lateral mientras Estella se levanta con una sonrisa pícara y camina hacia la puerta.
+
+ESCENA 2 – INT. ENTRADA DE LA CASA
+Plano medio desde dentro de la casa hacia la puerta.
+
+Estella abre la puerta. Se revela a Lazzy con una caja entre las manos.
+
+PLANO DETALLE: La caja se abre y se ve dentro una pistola de rayos.
+
+PLANO MEDIO: Estella toma el arma y apunta.
+
+EFECTO ESPECIAL: Resizing Raygun! se activa — disparo con rayo azul.
+
+PLANO TRASERO LAZZY: Su cuerpo comienza a encogerse poco a poco.
+
+ESCENA 3 – POV LAZZY (desde su nueva altura de 5cm)
+
+Gran plano general de Estella mirándolo desde arriba.
+
+PLANO DETALLE: Estella pisa hacia la cámara (simula que lo pisa).
+
+CORTE A NEGRO.
+
+ESCENA 4 – INT. MESA – LUZ AMBIENTAL BAJA
+Jackal System con cámara a nivel de miniatura
+
+PLANO PRIMERA PERSONA: Lazzy despierta sobre la mesa.
+
+CAMBIO DE PLANO: PANORÁMICA DESDE MESA – Estella está al fondo.
+
+PLANO CERRADO: Estella se relame los labios.
+
+PLANO DETALLE (POV LAZZY): Estella se acerca lentamente.
+
+SIMULACIÓN: Lengua (uso de props o animación) pasa sobre Lazzy.
+
+ESCENA 5 – INT. MESA / SOBRE ESTELLA
+
+PLANO CONTRAPICADO: Lazzy es sujetado de un pie y levantado frente a la boca de Estella.
+
+CAMBIO DE PLANO: Cara de Lazzy agitando los brazos, expresión de susto.
+
+PLANO GENERAL: Estella deja caer a Lazzy en su boca.
+
+PLANO INTERIOR: Oscuridad + efecto de cierre.
+
+PLANO FINAL: Estella abre la boca mostrando que ya no está.
+
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+**Guin Actuado**
+:round_pushpin: ESCENA 1 – INT. SALA – DÍA
+[Guion técnico]
+
+:camera: PLANO GENERAL desde la esquina de la sala, mostrando a Estella sentada en el sofá viendo televisión.
+
+:musical_note: Ambiente: sonido bajo de TV
+
+:loud_sound: SFX: Suena el timbre (Ding-Dong).
+
+:movie_camera: Cámara sigue a Estella (travelling suave) mientras se levanta y camina hacia la puerta con expresión traviesa.
+
+[Actuación – Estella]
+
+Sentada, piernas cruzadas, actitud relajada.
+
+Al sonar el timbre: se levanta con una sonrisa pícara, se acomoda el cabello, postura confiada.
+
+Camina con elegancia hacia la puerta.
+
+:round_pushpin: ESCENA 2 – INT. PUERTA – CONTINUO
+[Guion técnico]
+
+:camera: PLANO MEDIO desde el interior mirando hacia la puerta.
+
+Lazzy está parado con una caja en las manos.
+
+Estella abre la caja lentamente frente a cámara.
+
+PLANO DETALLE del arma dentro de la caja.
+
+:camera: PLANO MEDIO: Estella apunta y dispara.
+
+⚡️ Efecto especial: Resizing Raygun! — Rayo azul.
+
+:eye: Corte progresivo de altura: cámara se baja mientras Lazzy encoge.
+
+[Actuación – Estella]
+
+Sonrisa grande al ver a Lazzy.
+
+Toma la caja suavemente.
+
+Mira a Lazzy con una ceja levantada.
+
+Saca el arma lentamente, la examina y apunta juguetonamente.
+
+Dispara el rayo con entusiasmo.
+
+[Actuación – Lazzy]
+
+Entrega la caja de forma normal.
+
+Al ver el arma: postura de confusión, da un paso atrás.
+
+Reacciona al encogerse: brazos abiertos, tambaleándose, mira su cuerpo encogerse.
+
+:round_pushpin: ESCENA 3 – POV LAZZY DIMINUTO / OSCURIDAD
+[Guion técnico]
+
+:camera: POV en primera persona: mirada hacia arriba, Estella como gigante.
+
+:footprints: PLANO: Estella levanta el pie lentamente, lo baja hacia la cámara.
+
+:movie_camera: CORTE A NEGRO justo antes del impacto.
+
+[Actuación – Estella]
+
+Mira hacia abajo con gesto dominante.
+
+Se relame lentamente.
+
+Levanta el pie con lentitud y pisa hacia cámara.
+
+[Actuación – Lazzy]
+
+Mira hacia arriba, agita brazos, retrocede (cámara simula sacudidas por pánico).
+
+:round_pushpin: ESCENA 4 – INT. MESA – LUZ SUAVE
+[Guion técnico]
+
+:camera: PLANO GENERAL: Lazzy sobre la mesa, rodeado de objetos gigantes.
+
+:movie_camera: Cámara se acerca lentamente desde la altura de Lazzy.
+
+Estella entra en escena desde el fondo.
+
+[Actuación – Lazzy]
+
+Se incorpora desorientado, mira alrededor confundido.
+
+Retrocede al ver a Estella acercarse.
+
+[Actuación – Estella]
+
+Camina lento hacia la mesa.
+
+Se relame los labios con expresión ansiosa.
+
+Inclina el rostro hacia Lazzy y pasa la lengua sobre su cuerpo (simulación con animación/lengua fake).
+
+Lo toma del pie y lo levanta lentamente, dejando su rostro bajo él.
+
+Abre la boca exageradamente.
+
+:round_pushpin: ESCENA 5 – INT. BOCA / CIERRE
+[Guion técnico]
+
+:camera: PLANO CERRADO desde atrás: Estella deja caer a Lazzy en su boca.
+
+:movie_camera: PLANO INTERIOR OSCURO: cámara con desenfoque, simulando oscuridad.
+
+:movie_camera: Corte a Estella mostrando su boca vacía al final.
+
+[Actuación – Lazzy]
+
+Agita brazos, se resiste en el aire.
+
+Se mueve frenéticamente antes de ser tragado.
+
+[Actuación – Estella]
+
+Saborea, mueve mandíbula lentamente.
+
+Cierra los ojos en gesto de placer.
+
+Abre la boca: ya no está Lazzy.
+
+Mira a cámara con una sonrisa final.
+
+:film_frames: TRANSICIONES & EFECTOS
+Fade a negro tras ser pisado.
+
+Resizing Raygun con partícula personalizada (azul eléctrico).
+
+Sonidos suaves, respiración, sonidos de tela, lengua, saliva (opcional).
