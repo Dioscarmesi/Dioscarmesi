@@ -1,0 +1,84 @@
+ESCENA 1 – INT. SALA – TARDE
+PLANO ABIERTO – La cámara muestra un sofá encendido por la luz azulada de la televisión. El ambiente es silencioso, solo se escucha el murmullo bajo del televisor.
+
+CORTE A – PLANO DETALLE (SOBRE LA ALMOHADA DEL SOFÁ):
+Un personaje de escala diminuta (5 a 10 cm) se encuentra sentado, con la mirada fija en la televisión. Sus piernas cuelgan sobre el borde del cojín. La escena transmite quietud y vulnerabilidad.
+
+PLANO CONTRAPICADO – DESDE LA PERSPECTIVA DEL MINIATURA:
+Se ve cómo una figura de tamaño normal (el personaje gigante) se aproxima. Solo se aprecian las piernas y el movimiento de la sombra proyectada sobre la pared. La cámara asciende desde las piernas hasta el rostro mientras camina.
+
+PLANO EN MOVIMIENTO (TRAVELLING LENTO HACIA ATRÁS):
+El personaje gigante se da la vuelta lentamente.
+PLANO FIJO – DESDE ARRIBA DEL MINIATURA (TOP SHOT):
+El gigante se sienta accidentalmente justo sobre el personaje diminuto. El movimiento de la cámara transmite peso, dominancia y escala.
+
+PLANO DETALLE – MOVIMIENTO DE CADERAS (OPCIONAL):
+Un sutil desplazamiento o frotamiento ocurre mientras se acomoda sobre el cojín. La cámara enfoca el área del contacto, enfatizando la interacción sin necesidad de mostrar elementos explícitos.
+
+VERSIÓN 1 (ATREZZO):
+La figura lleva falda y ropa interior, con iluminación que proyecta sombras suaves.
+
+VERSIÓN 2 (ARTÍSTICA):
+La figura está completamente desnuda. El encuadre y la composición cuidan los ángulos para mantener un enfoque visual estilizado, abstracto.
+
+ESCENA 2 – INT. DORMITORIO – NOCHE
+PLANO GENERAL – ILUMINACIÓN TENUE:
+La figura gigante yace boca abajo sobre la cama. El ambiente es cálido, iluminado por una lámpara de noche.
+
+STEADICAM (MOVIMIENTO LENTO):
+La cámara avanza desde los pies, subiendo lentamente por la espalda del personaje gigante.
+
+PLANO DETALLE – ENFOQUE EN LA PARTE BAJA DE LA ESPALDA:
+Asoman dos pequeñas piernas, casi imperceptibles, sobresaliendo entre los glúteos. La cámara se detiene.
+
+PLANO MEDIO (OPCIONAL):
+La toma se realiza desde un ángulo lateral o diagonal, sin mostrar detalles explícitos, solo la implicación visual de la escena.
+
+VARIACIÓN DE ESCENA 2 – ENFOQUE EN EL MINIATURA
+PLANO CERRADO – ROSTRO DEL PERSONAJE MINIATURA:
+Se revela su cara parcialmente expuesta, con expresión de susto o asombro. La cámara realiza un leve zoom in, acentuando la tensión entre escalas.
+
+NOTAS DE PRODUCCIÓN:
+ÁNGULOS CRÍTICOS: Se deben usar macros, lentes de enfoque cerrado y planos subjetivos para destacar la diferencia de escala.
+
+ILUMINACIÓN: Suave, con alto contraste para jugar con luces/sombras y mantener el tono artístico.
+
+VESTUARIO Y DIRECCIÓN DE ARTE: Se recomienda falda o prenda ligera para la versión alternativa, y uso de cuerpos silueteados o encuadres cuidados para mantener el tono sugerente sin caer en lo explícito.
+
+POSTPRODUCCIÓN: Se pueden utilizar efectos visuales (VFX) para simular escala si se graba en plano real.
+---------------------------------------------------------------------------------------------Guion Tecnico: 
+🎬 GUIÓN ADAPTADO A VRCHAT
+TÍTULO: "Contrastes de Escala"
+PLATAFORMA: VRChat
+FORMATO: Grabación cinemática con cámaras VR o third person tools
+DURACIÓN APROX.: 2 escenas / ~1 minuto cada una
+
+🎥 ESCENA 1 – INTERIOR / SALA – TARDE
+[CÁMARA 1 – PLANO GENERAL FRONTAL AL SOFÁ]
+El avatar en miniatura (5–10 cm de altura) está sobre un cojín del sofá, viendo una pantalla de televisión (ficticia o decorativa). La posición transmite quietud.
+
+[CÁMARA 2 – DOLLY HACIA ARRIBA DESDE PIES DEL AVATAR GRANDE]
+Se observa cómo el avatar grande entra en la escena caminando. La cámara lo sigue desde las piernas hasta el rostro, manteniéndose frontal.
+
+[CÁMARA 3 – TOMA SUPERIOR DESDE ARRIBA DEL MINIATURA (TOP SHOT)]
+El avatar gigante se da la vuelta y se sienta lentamente sobre el sofá, justo encima del personaje pequeño (que apenas se ve entre los cojines).
+
+[POSADO 1 – FROTAMIENTO LENTO]
+El avatar grande realiza una animación (loop o gestura) que simula un pequeño movimiento de caderas, como si se acomodara suavemente.
+
+VERSIÓN A (ROPA):
+La escena se graba con avatar con falda y ropa interior visible. Se recomienda un ángulo ligeramente trasero o lateral.
+
+VERSIÓN B (SIN ROPA):
+El avatar gigante aparece desnudo 
+🎥 ESCENA 2 – INTERIOR / CAMA – NOCHE O LUZ TÉNUE
+[CÁMARA 4 – TOMA DESDE PIES, SUBIENDO LA ESPALDA]
+El avatar gigante está acostado boca abajo sobre la cama. La cámara hace un travelling desde los pies hasta la parte baja de la espalda.
+
+[CÁMARA 5 – PLANO DETALLE (POSICIÓN CRÍTICA)]
+Se muestran las piernas del avatar en miniatura sobresaliendo levemente desde entre los glúteos del avatar grande. No se muestra movimiento; solo una pose fija.
+
+VARIANTE – ENFOQUE FACIAL MINIATURA:
+
+[CÁMARA 6 – PRIMER PLANO ENCARADO AL MINIATURA]
+La cámara gira lentamente para mostrar el rostro del avatar pequeño, con expresión de susto. Se recomienda un gesto facial personalizado (animación de miedo o asombro).
