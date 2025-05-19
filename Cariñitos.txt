@@ -1,0 +1,107 @@
+🎬 Título: "Cariñitos"
+🎮 VRChat – Interacción emocional con transformación física
+👥 Personajes: Stella (mujer) y Lazzy (hombre)
+📦 Sistemas sugeridos:
+
+Resizing System (crecimiento de avatar de forma progresiva)
+
+Jackal Chair System (si se necesita fijar a Lazzy en posición final)
+
+📍 ESCENA 1 – INT. HABITACIÓN – LUZ TÉNUE
+[Guion técnico]
+📷 PLANO GENERAL: Stella está acurrucada en una esquina de la habitación, en posición fetal o sentada con brazos sobre las rodillas.
+🎥 Cámara estática desde una altura media, mostrando el espacio algo vacío.
+🎵 Ambiente: suave sonido ambiental melancólico.
+
+[Actuación – Stella]
+
+Postura cerrada, acurrucada.
+
+Cabeza agachada, cuerpo encogido.
+
+Movimientos suaves, suspiros visibles.
+
+📍 ESCENA 2 – LAZZY ENTRA EN ESCENA
+[Guion técnico]
+📷 PLANO LATERAL: Lazzy entra caminando lentamente desde una puerta o lateral del cuarto.
+🎥 Cámara sigue a Lazzy suavemente mientras se acerca a Stella.
+
+[Actuación – Lazzy]
+
+Entra despacio, con expresión preocupada.
+
+Se agacha cerca de ella.
+
+Toca su frente con una caricia suave.
+
+📍 ESCENA 3 – TRANSFORMACIÓN INICIAL
+[Guion técnico]
+📷 PLANO DETALLE: Al ser acariciada, Stella comienza a crecer ligeramente (activar efecto de escala 1.0 → 1.5).
+🎥 Cámara enfoca su rostro: sonrisa aparece lentamente.
+
+[Actuación – Stella]
+
+Levanta un poco el rostro, ojos entrecerrados.
+
+Sonríe lentamente, postura comienza a abrirse.
+
+Cuerpo crece sutilmente (primer trigger de cambio de avatar o escala).
+
+[Actuación – Lazzy]
+
+Se sorprende, da un paso atrás.
+
+Mira a Stella, duda, pero repite la caricia.
+
+📍 ESCENA 4 – CRECIMIENTO ACELERADO
+[Guion técnico]
+📷 SECUENCIA DE PLANOS:
+
+Cambio progresivo de cámara para reflejar el cambio de escala.
+
+Vista desde el suelo: Stella crece más (2.0 → 3.0 → 5.0...)
+
+La cámara se eleva o usa diferentes ángulos para mostrar el efecto de gigantismo.
+
+La habitación comienza a verse pequeña en proporción.
+
+[Actuación – Stella]
+
+Se estira, postura poderosa y dominante.
+
+Mira a Lazzy desde su nueva altura.
+
+Comienza a reír suavemente o sonríe con picardía.
+
+[Actuación – Lazzy]
+
+Mira hacia arriba, retrocede lentamente.
+
+Postura de sorpresa e incertidumbre.
+
+📍 ESCENA 5 – DOMINIO FINAL
+[Guion técnico]
+📷 PLANO CONTRAPICADO (desde Lazzy): La entrepierna de Stella desciende lentamente desde arriba (fuera de foco o sugerido, sin mostrar explícito).
+🎥 Corte antes del contacto directo.
+🎵 Efecto ambiental se corta. Fade to black.
+
+[Actuación – Stella]
+
+Se posiciona sobre Lazzy lentamente.
+
+Baja el cuerpo hacia él, con expresión relajada y dominante.
+
+[Actuación – Lazzy]
+
+Mira hacia arriba, sin moverse.
+
+Se queda inmóvil o con postura de rendición.
+
+🎞️ TRANSICIONES & EFECTOS
+Efecto de escala progresiva (activar mediante toggles o animation controllers).
+
+Fade to black final justo antes del contacto.
+
+Música emocional que se transforma en silenciosa o ambiental intensa al crecer.
+
+Usar post-processing blur o depth of field para transmitir gigantismo visual.
